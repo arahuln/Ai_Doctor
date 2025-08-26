@@ -1,0 +1,11 @@
+beautifulsoup4
+requests
+urllib3
+robotexclusionrulesparser
+tqdm
+pandas
+scikit-learn
+joblib
+nltk
+streamlit
+python-dotenv
