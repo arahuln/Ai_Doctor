@@ -9,3 +9,12 @@ joblib
 nltk
 streamlit
 python-dotenv
+tensorflow 
+pandas 
+scikit-learn 
+joblib 
+streamlit 
+langchain-nvidia-ai-endpoints 
+langchain 
+python-dotenv 
+tqdm
