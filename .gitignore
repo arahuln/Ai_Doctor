@@ -8,7 +8,6 @@ artifacts
 fine_tuned_disease_model
 
 app_streamlit.py
-app.py
 
 finetune_prep.py
 
