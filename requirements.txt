@@ -22,3 +22,7 @@ tqdm
 ddgs
 langchain_community
 langchain_tavily
+torch
+torchvision
+transformers
+datasets
