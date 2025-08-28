@@ -5,7 +5,7 @@ venv
 artifacts
 
 
-fine_tuned_disease_model
+# fine_tuned_disease_model
 
 app_streamlit.py
 
