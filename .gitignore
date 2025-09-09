@@ -1,0 +1,19 @@
+.env
+
+venv
+
+artifacts
+
+
+# fine_tuned_disease_model
+
+app_streamlit.py
+
+finetune_prep.py
+
+train_nn_model.py
+
+data/finetune_chat.jsonl
+data/finetune_prompt.
+
+__pycache__
